@@ -1,0 +1,10 @@
+c:\users\rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\bin\Debug\PDFSplitter.exe
+c:\users\rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\bin\Debug\PDFSplitter.pdb
+c:\users\rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\obj\x86\Debug\PDFSplitter.mainForm.resources
+c:\users\rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\obj\x86\Debug\PDFSplitter.Properties.Resources.resources
+c:\users\rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\obj\x86\Debug\PDFSplitter.csproj.GenerateResource.Cache
+c:\users\rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\obj\x86\Debug\PDFSplitter.exe
+c:\users\rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\obj\x86\Debug\PDFSplitter.pdb
+C:\Users\Rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\obj\x86\Debug\PDFSplitter.csprojResolveAssemblyReference.cache
+C:\Users\Rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\bin\Debug\itextsharp.dll
+C:\Users\Rade\documents\visual studio 2010\Projects\PDFSplitter\PDFSplitter\bin\Debug\itextsharp.xml
